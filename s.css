@@ -3,6 +3,7 @@ body{
     padding: 0;
     background-color: black;
     height: 2000px;
+    color: white;
 }
 ::selection{
     background-color: cadetblue;
@@ -30,5 +31,5 @@ body::before{
     list-style: none;
 }
 .navbar ul li{
-    margin-left: 2em;
+    margin-left: 2rem;
 }
